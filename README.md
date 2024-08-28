@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/monad-task.git
+   git clone https://github.com/f2rkan/personnel-management-system.git
    cd personnel-management-system
    ```
 
