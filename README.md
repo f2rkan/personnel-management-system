@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/yourusername/monad-task.git
-   cd monad-task
+   cd personnel-management-system
    ```
 
 2. **Build the project**:
